@@ -1,0 +1,4 @@
+name: sample
+dependencies:
+  browser: any
+  polymer: any
